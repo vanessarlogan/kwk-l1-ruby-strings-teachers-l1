@@ -22,4 +22,4 @@ puts "Who is the host name?"
 
 host_name = gets.chomp
 
-puts "Dear #{guest_name},\n \n You are cordially invited to the #{party_name} on #{date} at #{time}. Please RSVP. \n \n Sincerely \n \n #{host_name}""
+puts "Dear #{guest_name},\n \n You are cordially invited to the #{party_name} on #{date} at #{time}. Please RSVP. \n \n Sincerely \n \n #{host_name}"
